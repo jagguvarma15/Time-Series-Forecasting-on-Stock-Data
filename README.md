@@ -1,1 +1,5 @@
 # Time-Series-Forecasting-on-Stock-Data
+
+Time Series Forecasting Project focused on JPMORGAN CHASE & CO. (Ticker: JPM), one of America's top 50 companies. Analyzing stock data from 2018 to the present, the study uncovered a stable pricing trend with a tight Inter-Quartile Range of 110-140 for the Close column. Notably, the Adjusted Close variable exhibited significant variation relative to trading volume, highlighting the influence of market activity on stock prices. 
+
+The analysis employed advanced techniques such as the Exponential Moving Average (EMA) and Autoregressive Integrated Moving Average (ARIMA) model to capture seasonality and forecast trends. Despite the non-stationarity of the data, transformations like the Box-Cox transform and differencing were applied, ensuring model accuracy. Comparative assessments favored the ARIMA model over Holt Winter's Multiplicative method, showcasing its prowess in minimizing Root-Mean-Squared-Error and improving Mean Absolute Percentage Error. This project contributes valuable insights to financial forecasting, emphasizing the role of data science in decoding intricate stock market patterns.
